@@ -15,7 +15,7 @@ Here are some examples of the tools you can use during the workshop. Feel free t
 LLMs with free access:  
 **ChatGPT:** https://chat.openai.com (requires free account for image generation, no login needed for text generation)  
 **Gemini:** https://gemini.google.com  (requires free account for image generation, no login needed for text generation)  
-**Claude:** https://claude.ai (text generation only - no login needed)  
+**Claude:** https://claude.ai (requires free account)  
 **Google AI Studio**: https://aistudio.google.com/prompts/new_chat (requires Google account for all features)
 
 ### Text-to-speech (TTS)
