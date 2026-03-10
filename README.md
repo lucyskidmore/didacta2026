@@ -183,7 +183,7 @@ Write a prompt to perform automatic speaking assessment on the provided audio fi
 
 https://github.com/mfelice/ndea2023/assets/11545607/6e04db93-05f3-4ea6-afab-5826e84a93e9
 
-Download the audio file: [here](https://filebin.net/snk1klly1mg2jxa6)
+Download the audio file: [here](https://filebin.net/i0mfmvw3hgv3c8gb)
 
 You may complete this task in one of two ways:
 
